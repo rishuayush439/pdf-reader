@@ -4,7 +4,7 @@ Overview
 
 PDF Reader is a web application that allows users to view and interact with PDF files efficiently. Built using React, Vite, and Tailwind CSS, this project leverages modern frontend technologies for a seamless user experience.
 
-Features
+Features:
 
 View and navigate PDF files
 
